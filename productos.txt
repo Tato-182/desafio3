@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Guitarra Fender", 
+        "precio":750, 
+        "url" : `https://musimundo.uy/catalogo/ofertas-junio-161.jpg`, 
+        "id" : `01`,
+        "tipo": `guitarra`
+        },
+
+{
+    "title":"Guitarra ESP",
+    "precio": 650,
+    "url":`https://musimundo.uy/catalogo/ofertas-junio-163.jpg`, 
+    "id" : `02`,
+    "tipo": `guitarra`
+    
+    },
+
+{
+    "title":" Bajo Squier", 
+    "precio": 350 , 
+    "url": `https://musimundo.uy/catalogo/ofertas-junio-163.jpg`, 
+    "id": `03`,
+    "tipo":`bajo´
+    }
+]
